@@ -1,5 +1,5 @@
 # surfs_up
-#Overview of Analysis
+# Overview of Analysis
 The purpose of this analysis is to give a client information about the weather in Oahu. The client wants to open a surf/ice cream shop in an area with ideal surf weather. By using data obtained from weather stations around the island an analysis was able to provide the client with the information they needed to pitch their business plan. Specifically focusing on data from June and December to insure year round success, also during peak tourist months. 
 
 ## Results 
